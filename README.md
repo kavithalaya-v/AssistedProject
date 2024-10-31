@@ -4,7 +4,7 @@
 
 This project aims to analyze the relationship between learning activity and student performance using machine learning techniques. The study focuses on key factors such as class attendance, sleep habits, interest in the subject, social network usage, and participation during lectures to understand their impact on academic outcomes [T1].
 
-The project was submitted to SASTRA Deemed to be University as a requirement for the course CSE300 - MINI PROJECT by  Kavithalaya V and Keerthana G in May 2024 [T2].
+The project was submitted to SASTRA Deemed to be University as a requirement for the course CSE300 - MINI PROJECT by  Kavithalaya V  in May 2024 [T2].
 
 ## Technologies Used
 
